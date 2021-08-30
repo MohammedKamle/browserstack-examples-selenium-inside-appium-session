@@ -3,7 +3,7 @@
 
 ### Set Up
 - Clone the repo
-- Add your BrowserStack specific username and accesskey in BrowserstackSample.java file 
+- Add your BrowserStack specific username and accesskey in SampleTest.java file 
 - Add your app hash-id in "app" capability
 - Do  "mvn install"
-- Run the test file BrowserStackSample
+- Run the test file SampleTest.java
